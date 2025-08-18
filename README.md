@@ -1,4 +1,4 @@
-# Data Cleaning Task  -Task 1
+# Simple Learning and Application of Data Cleaning -Task 1
 
 ## Overview  
 This project focuses on **data cleaning and preprocessing**, which are essential first steps in any data science workflow. The task was part of my summer training program and aimed to transform raw, messy datasets into structured and reliable data suitable for analysis and machine learning modeling.  
