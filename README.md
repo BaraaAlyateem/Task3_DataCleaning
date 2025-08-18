@@ -12,3 +12,8 @@ This project focuses on **data cleaning and preprocessing**, which are essential
 - Removed duplicates and standardized inconsistent data formats.  
 - Generated a cleaned dataset ready for **Exploratory Data Analysis (EDA)** and modeling as if to present to a CEO of a company.  
 - Documented insights and steps clearly for reproducibility.  
+
+## Results  
+- Created a **high-quality cleaned dataset** with consistent formatting and no missing/duplicate entries.  
+- Improved data reliability, enabling accurate analysis and machine learning tasks in later stages.  
+- Produced visual summaries to validate cleaning effectiveness.  
